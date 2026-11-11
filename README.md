@@ -48,4 +48,28 @@ The changes have also been submitted to the original project for consideration:
 
 [Pull Request #15 — Add optional Dark theme support](https://github.com/Vhab/Vha.Chat/pull/15)
 
-Further development of this fork will depend on community interest,
+Further development of this fork will depend on community interest, compatibility requirements, and future maintenance decisions.
+
+## Original Project and Credits
+
+**Original application:** [Vhab/Vha.Chat](https://github.com/Vhab/Vha.Chat)
+
+**Original developer:** Remco van Oosterhout (Vhab)
+
+**Dark-mode contribution:** Alan Carr ([alancarr040-ctrl](https://github.com/alancarr040-ctrl))
+
+Vha.Chat and its related libraries have benefited from contributions by multiple developers over the years. The original contributor acknowledgments, library credits, and licensing notices have been preserved.
+
+See [Vha.Chat/Credits.txt](Vha.Chat/Credits.txt) for the original acknowledgments.
+
+Anarchy Online and its associated trademarks belong to their respective owners. This fork is an independent community contribution and is not affiliated with or endorsed by Funcom.
+
+## License
+
+Vha.Chat is distributed under the GNU General Public License, version 2 only (GPL-2.0-only), as specified in the original source-code notices.
+
+The original license text is available in [Vha.Chat/License.txt](Vha.Chat/License.txt).
+
+Original copyright notices and third-party licensing terms are preserved, including the separate notices applicable to the Starksoft.Net.Proxy library.
+
+Modifications introduced by this fork are distributed under the applicable GPL terms.
