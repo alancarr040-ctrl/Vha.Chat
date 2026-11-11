@@ -22,7 +22,7 @@ Features include:
 
 ## Screenshots
 
-*Screenshots of the Light and Dark themes can be added here.*
+<img width="1920" height="1032" alt="vha chat darkmode" src="https://github.com/user-attachments/assets/b70fe5c4-27ad-4cd4-956b-20f8977ad8ce" />
 
 ## Building from Source
 
