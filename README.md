@@ -4,6 +4,16 @@ Vha.Chat is a standalone Windows chat client for **Anarchy Online**, originally 
 
 This repository is a community fork of the original [Vha.Chat project](https://github.com/Vhab/Vha.Chat), preserving the existing application while introducing optional improvements.
 
+## Dark Mode — Available on Feature Branch
+
+The optional Dark-mode implementation is currently available on the [`feature/dark-mode`](https://github.com/alancarr040-ctrl/Vha.Chat/tree/feature/dark-mode) branch.
+
+The default master branch retains the original application while the changes are under review by the original developer.
+
+To build or examine the Dark-mode version, use the feature branch rather than master.
+
+The changes have been submitted upstream as [Pull Request #15 — Add optional Dark theme support](https://github.com/Vhab/Vha.Chat/pull/15).
+
 ## What's New in This Fork?
 
 ### Optional Dark Mode
