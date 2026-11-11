@@ -31,8 +31,14 @@ Features include:
 **Light remains the default.** Users who prefer the original appearance do not need to change anything.
 
 ## Screenshots
-
-<img width="1920" height="1032" alt="vha chat darkmode" src="https://github.com/user-attachments/assets/b70fe5c4-27ad-4cd4-956b-20f8977ad8ce" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b70fe5c4-27ad-4cd4-956b-20f8977ad8ce"
+       alt="Vha.Chat Dark Mode"
+       width="49%" />
+  <img src="https://github.com/user-attachments/assets/31247fbf-834e-4c86-8aa5-136287ab913d"
+       alt="Vha.Chat Light Mode"
+       width="49%" />
+</p>
 
 ## Building from Source
 
